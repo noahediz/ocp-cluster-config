@@ -1,4 +1,4 @@
-# GitOps structure: K8s cluster configuration
+# GitOps structure: OCP cluster configuration
 
 ## Introduction
 This repository manages the cluster-level configuration for my multi-platform homelab environment. Using **Kustomize** and **ArgoCD**, it implements a "Single Source of Truth" for infrastructure components without storing user applications or sensitive business logic.
